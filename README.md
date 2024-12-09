@@ -19,8 +19,12 @@ I am a passionate **Frontend Developer** with a solid foundation in **HTML** and
 - **Currently Learning:** Advanced CSS, JavaScript, Data Structures and Algorithms (DSA)
 
 ### 📈 GitHub Stats
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil7704&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil7704&layout=compact&theme=radical)
+![Nikhil Tiwari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil7704&show_icons=true&hide=prs&count_private=true&theme=dark&bg_color=0d1117) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil7704&layout=compact&theme=dark&bg_color=0d1117) |
+|:--:|:--:|
+ [![Nikhil Tiwari's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil7704&theme=dark&bg_color=0d1117)](https://git.io/streak-stats) 
+
+---
 
 ---
 
