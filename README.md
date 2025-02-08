@@ -8,7 +8,7 @@ I am a passionate **Frontend Developer** with a solid foundation in **HTML** and
 - 🎨 Enhancing my skills in **Advanced CSS** for creating dynamic and responsive designs.
 - 📚 Deepening my understanding of **JavaScript** and advancing in **Frontend Development**.
 
-### 🎯 2024 Goals
+### 🎯 2025 Goals
 - 🛠 Achieve a strong command of **DSA**.
 - 🔥 Master the languages and tools I’ve learned so far.
 - 🚀 Transition into a full-fledged **Frontend Developer** with robust, production-ready skills.
