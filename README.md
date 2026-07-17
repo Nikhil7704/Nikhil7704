@@ -1,43 +1,240 @@
-# Hi there! 👋 I'm Nikhil Tiwari
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Nikhil Tiwari</h1>
+<h3 align="center">
+AI Engineer • Full Stack Developer • Problem Solver
+</h3>
 
-### 👨‍💻 About Me
-I am a passionate **Frontend Developer** with a solid foundation in **HTML** and **CSS**, and I am currently learning **JavaScript**. Alongside web development, I have experience with programming languages like **C++** and **Python**. I am committed to continuously improving my coding skills and exploring new technologies to build dynamic and efficient solutions.
-
-### 🌟 Current Focus
-- 🌱 Exploring **Data Structures and Algorithms (DSA)** to strengthen my problem-solving skills.
-- 🎨 Enhancing my skills in **Advanced CSS** for creating dynamic and responsive designs.
-- 📚 Deepening my understanding of **JavaScript** and advancing in **Frontend Development**.
-
-### 🎯 2025 Goals
-- 🛠 Achieve a strong command of **DSA**.
-- 🔥 Master the languages and tools I’ve learned so far.
-- 🚀 Transition into a full-fledged **Frontend Developer** with robust, production-ready skills.
-
-### ⚡ Tech Stack
-- **Frontend Development:** HTML, CSS, JavaScript (Currently Learning)
-- **Programming Languages:** C++, Python
-- **Currently Learning:** Advanced CSS, JavaScript, Data Structures and Algorithms (DSA)
-
-### 📈 GitHub Stats
-![Nikhil Tiwari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikhil7704&show_icons=true&hide=prs&count_private=true&theme=dark&bg_color=0d1117) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil7704&layout=compact&theme=dark&bg_color=0d1117) 
-[![Nikhil Tiwari's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil7704&theme=dark&bg_color=0d1117)](https://git.io/streak-stats) 
-
-## 📚 Coding Streaks
-
-- **LeetCode**:  
-  ![LeetCode Streak](https://leetcard.jacoblin.cool/Nikhil7704?theme=dark&ext=heatmap)  
-  [Check out my LeetCode Profile](https://leetcode.com/Nikhil7704/)
-
-
-### 📬 Contact Me
-Feel free to reach out to me for collaboration, questions, or just a friendly chat about programming:
-
-- **Email**: tiwari.nikhil2017@gmail.com
-- **GitHub**: [@Nikhil7704](https://github.com/Nikhil7704)
-- **LinkedIn**: [Nikhil Tiwari](https://www.linkedin.com/in/nikhil-tiwari-aa02b7326/)
+<p align="center">
+Building scalable AI-powered applications, intelligent automation systems, and cloud-native software.
+</p>
 
 ---
 
-Thank you for visiting my GitHub! 😊  
-Stay tuned for more updates on my projects and progress as I continue my coding journey. 🚀
+# 💫 About Me
+
+🎓 B.Tech Computer Science Student at **VIT Bhopal University**
+
+💻 Passionate about building **AI-powered products**, scalable backend systems, and modern web applications.
+
+🚀 Currently exploring
+
+- Large Language Models (LLMs)
+- AI Agents
+- FastAPI
+- Docker
+- PostgreSQL
+- Redis
+- Microservices
+- Cloud Deployment
+- System Design
+
+🏆 Highlights
+
+- 💼 AI Engineer Intern
+- 🏅 National Ideathon Winner (Top 4 among 2500+ teams)
+- 👨‍💻 Active Competitive Programmer
+- 🌱 Always learning new technologies
+
+---
+
+# 🚀 Tech Stack
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,c" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,sqlite,redis" />
+</p>
+
+## AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+**Also Worked With**
+
+- OpenAI API
+- Claude API
+- Hugging Face
+- LangChain
+- RAG
+- Vector Databases
+- pgvector
+- Crawl4AI
+
+---
+
+## ☁️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux" />
+</p>
+
+---
+
+# 💼 Featured Projects
+
+## 🚀 EmpowerMSME
+
+AI-powered financial platform helping MSMEs access intelligent financing, analytics, and business growth tools.
+
+**Tech**
+
+- Next.js
+- FastAPI
+- PostgreSQL
+- Docker
+- AI
+- RAG
+- Microservices
+
+---
+
+## 🤖 AI Social Media Automation Platform
+
+Enterprise-grade automation platform supporting
+
+- LinkedIn
+- Instagram
+- Facebook
+- X (Twitter)
+- Threads
+
+Features
+
+- AI Content Generation
+- Scheduling
+- Analytics
+- CRM
+- OAuth
+- Multi-platform publishing
+
+**Tech**
+
+FastAPI • PostgreSQL • RabbitMQ • Celery • Docker • Claude API
+
+---
+
+## 🌐 AI Website Crawler & Lead Intelligence Platform
+
+Automatically crawls websites and extracts
+
+- Company Information
+- Contact Details
+- Technologies Used
+- Business Intelligence
+- Lead Generation Data
+
+**Tech**
+
+FastAPI
+
+Redis
+
+PostgreSQL
+
+pgvector
+
+Docker
+
+Crawl4AI
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nikhil7704&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil7704&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil7704&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Competitive Programming
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Nikhil7704?theme=dark&ext=contest"/>
+
+</p>
+
+🔗 **LeetCode:** https://leetcode.com/Nikhil7704/
+
+---
+
+# 📚 Currently Learning
+
+- AI Agents
+- LangGraph
+- MCP
+- Kubernetes
+- Advanced System Design
+- Distributed Systems
+- Cloud Architecture
+
+---
+
+# 🌱 2026 Goals
+
+- 🚀 Crack top Software Engineering internships
+- 🤖 Build production-ready AI SaaS products
+- ☁️ Master Cloud & DevOps
+- 📈 Reach 1000+ DSA problems solved
+- 💼 Contribute to Open Source consistently
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+<a href="mailto:tiwari.nikhil2017@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Nikhil7704">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nikhil-tiwari-aa02b7326/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ *"Code. Learn. Build. Repeat."*
+
+<img src="https://komarev.com/ghpvc/?username=Nikhil7704&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
